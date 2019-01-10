@@ -4,8 +4,11 @@ An email notification service that notifies you when a plant needs to be watered
 This is a NodeMCU based notification service that can send emails informing you when a plant's soil is getting too dry. It checks the soil once an hour and only notifies you when it's too dry. The notification uses foaas (Fuck off as a Service) to insult you for forgetting to water your plant. 
 
 To set up your own, you need :
+
 1 NodeMCU
+
 1 HONG111 TE215 Soil Moisture Sensor
+
 1 Breadboard/hole-through PCB board
 Wires
 
